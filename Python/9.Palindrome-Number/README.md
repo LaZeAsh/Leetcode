@@ -1,3 +1,6 @@
+## Problem Link
+
+Link: https://leetcode.com/problems/palindrome-number/ 
 ## Solution
 
 There was a few obvious conditions I decided to account for
